@@ -14,5 +14,6 @@ You can click the Preview link to take a look at your changes.
 I have built:
 + [Free GPTOmni](https://gptomni.ai/)
 + [Rapid Pikka](https://rapidpikka.com/)
++ [Flagle Explorer](https://flagle.fun/)
 + [Colorfle Unlimited](https://colorfle.app/)
 + [MERGE MOSAICS](https://mergemosaics.com/)
