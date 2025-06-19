@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I have built:
++ [isomorphism-libs](https://horushe.gitbook.io/isomorphism-libs)
 + [Ruletaa](https://ruletaa.net/)
 + [Free GPTOmni](https://gptomni.ai/)
 + [Rapid Pikka](https://rapidpikka.com/)
