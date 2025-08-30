@@ -2,9 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on encouraging each other
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 horushe93/horushe93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
