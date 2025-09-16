@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I have built:
++ [Pips Game](https://playpips.app/)
 + [AI Jersey Generator](https://fastjrsy.com/)
 + [isomorphism-libs](https://horushe.gitbook.io/isomorphism-libs)
 + [Ruletaa](https://ruletaa.net/)
