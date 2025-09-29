@@ -12,6 +12,7 @@ I have built:
 + [AI Polaroid](https://aipolaroid.net/)
 + [AI Saree](https://aisaree.net/)
 + [Pips Game](https://playpips.app/)
++ [Brainrot Craft](https://brainrotcraft.app/)
 + [AI Jersey Generator](https://fastjrsy.com/)
 + [isomorphism-libs](https://horushe.gitbook.io/isomorphism-libs)
 + [Ruletaa](https://ruletaa.net/)
