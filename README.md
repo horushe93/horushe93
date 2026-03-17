@@ -11,16 +11,13 @@ You can click the Preview link to take a look at your changes.
 I have built:
 + [Banana AI](https://bananai.net/)
 + [Free Background Remover](http://freebackgroundremover.net/)
-+ [Mii Creator](https://miicreator.net/)
-+ [AI Polaroid](https://aipolaroid.net/)
-+ [AI Saree](https://aisaree.net/)
 + [Pips Game](https://playpips.app/)
-+ [Brainrot Craft](https://brainrotcraft.app/)
 + [AI Jersey Generator](https://fastjrsy.com/)
 + [isomorphism-libs](https://horushe.gitbook.io/isomorphism-libs)
 + [Ruletaa](https://ruletaa.net/)
 + [Free GPTOmni](https://gptomni.ai/)
-+ [Rapid Pikka](https://rapidpikka.com/)
 + [Flagle Explorer](https://flagle.fun/)
 + [Colorfle Unlimited](https://colorfle.app/)
-+ [MERGE MOSAICS](https://mergemosaics.com/)
+
+I have sponsored:
++ [https://opencollective.com/horushe](https://opencollective.com/horushe)
