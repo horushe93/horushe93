@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I have built:
++ [Virality Predictor](https://viralitypredictor.net/)
 + [Chat-based AI Image Generator](http://pixparkle.com/)
 + [Lumiet AI](https://lumiet.net/)
-+ [Free Background Remover](http://freebackgroundremover.net/)
 + [Pips Game](https://playpips.app/)
 + [Mii Creator](https://miicreator.net/)
 + [AI Jersey Generator](https://fastjrsy.com/)
